@@ -1,0 +1,21 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# JSM2026: Improving Power and Precision in Randomized Trials Using Covariate Adjustment
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+This contains the materials for [JSM Continuing Education Course CE 30: Improving Power and Precision in Randomized Trials Using Covariate Adjustment](https://ww3.aievolution.com/JSMAnnual2026/Events/viewEv?ev=8529)
+
+The .qmd is a Quarto markdown document which produces a HTML document with code and results. The R code alone is also provided. The accompanying slides are in PDF format.
