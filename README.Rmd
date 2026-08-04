@@ -18,4 +18,6 @@ knitr::opts_chunk$set(
 
 This contains the materials for [JSM Continuing Education Course CE 30: Improving Power and Precision in Randomized Trials Using Covariate Adjustment](https://ww3.aievolution.com/JSMAnnual2026/Events/viewEv?ev=8529)
 
-The .qmd is a Quarto markdown document which produces a HTML document with code and results. The R code alone is also provided. The accompanying slides are in PDF format.
+The .qmd is a [Quarto markdown document](https://raw.githubusercontent.com/CovariateAdjustment/JSM2026/refs/heads/main/JSM_2026_CE_30_Covariate_Adjustment_Examples_in_R.qmd) which produces a HTML document with code and results. The [R code alone](https://raw.githubusercontent.com/CovariateAdjustment/JSM2026/refs/heads/main/JSM_2026_CE_30_Covariate_Adjustment_Examples_in_R.R) is also provided. The [accompanying slides are in PDF format](https://raw.githubusercontent.com/CovariateAdjustment/JSM2026/refs/heads/main/JSM_2026_CE_30_RCT_Covariate_Adjustment_Applications.pdf).
+
+[This link will download all files in a .zip file.](https://t.jh.edu/Mbp2Tb)
